@@ -1,39 +1,41 @@
-# HTML Portfolio (Preview)
+# 🌟 HTML Portfolio (Preview)
 
-![xyz](https://github.com/sarthak576/html-portfolio/blob/main/assets/images/image2.png)
----
-
-This is my **first portfolio website**, marking the beginning of my journey in web development. It showcases my early projects and reflects my enthusiasm for learning and creating as a web developer. The website is built entirely in **HTML** without CSS or additional styling, focusing on the content and structure.
+![Portfolio Screenshot](https://github.com/sarthak576/html-portfolio/blob/main/assets/images/image2.png)
 
 ---
 
-## Features
-
-- **Simple Portfolio Design**: Displays my projects in an organized and accessible manner.
-- **Projects Section**:
-  - **Movies Ranking Project**: A personal review of my top 3 favorite movies.
-  - **Birthday Invite Project**: A creative way to share a special invitation.
-- **Developer Introduction**: A brief overview of my identity as a budding web developer.
+This is my **first portfolio website**, showcasing the beginning of my journey as a web developer. Built entirely in **HTML**, it highlights my enthusiasm for learning and creating without any CSS or advanced styling.
 
 ---
 
+## 🔥 Features
 
-## Motivation
-
-This portfolio serves as a foundation for building more advanced web development skills. It is a reminder of where I started and how I aspire to grow.
-
----
-
-## Future Enhancements
-
-- Add **CSS Styling** for a visually appealing design.
-- Introduce **JavaScript Interactivity** for enhanced user experience.
-- Deploy the portfolio on **GitHub Pages** for public accessibility.
+- 📄 **Minimal Design**: Clean layout focusing on structure and content.
+- 🎥 **Projects Section**:
+  - **Movies Ranking Project**: My top 3 favorite movies with reviews.
+  - **Birthday Invite Project**: A fun and creative invitation.
+- 👨‍💻 **Developer Introduction**: Brief insight into my journey and aspirations.
 
 ---
 
-## How to Run
+## 💡 Motivation
 
-1. Clone this repository:
+- Serves as the foundation for my web development skills.  
+- Reflects my learning process and early achievements.  
+- Acts as a stepping stone for building advanced projects.  
+
+---
+
+## 🚀 Future Enhancements
+
+- 🎨 Add **CSS Styling** for a polished look.  
+- ✨ Include **JavaScript** for interactivity.  
+- 🌐 Deploy on **GitHub Pages** for public visibility.  
+
+---
+
+## 🛠️ How to Run
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/html-portfolio.git
+   git clone https://github.com/sarthak576/html-portfolio.git
