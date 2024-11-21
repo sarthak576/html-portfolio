@@ -1,5 +1,6 @@
-# HTML Portfolio
+# HTML Portfolio (Preview)
 
+![xyz]()
 This is my **first portfolio website**, marking the beginning of my journey in web development. It showcases my early projects and reflects my enthusiasm for learning and creating as a web developer. The website is built entirely in **HTML** without CSS or additional styling, focusing on the content and structure.
 
 ---
